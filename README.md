@@ -13,11 +13,14 @@ Prettier
 
 Getting started
 $ git clone https://github.com/stephentk/CRUD-BOOKS-API.git
+
 $ cd exercise-setup-postgresql-in-node-env
+
 $ npm install
 $ npm run watch
 
 Endpoints
+
 GET /books
 returns an array of the books object in the database
 
