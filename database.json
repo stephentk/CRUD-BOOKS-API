@@ -1,0 +1,17 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "libary",
+      "user": "magical_user",
+      "password": "password"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "libary_test",
+      "user": "test_user",
+      "password": "password"
+    }
+  }
+  
